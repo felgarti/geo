@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/geo/static/css/main.827a2cbd.chunk.css",
+    "main.js": "/geo/static/js/main.1e2f3564.chunk.js",
+    "main.js.map": "/geo/static/js/main.1e2f3564.chunk.js.map",
+    "runtime-main.js": "/geo/static/js/runtime-main.37f3c721.js",
+    "runtime-main.js.map": "/geo/static/js/runtime-main.37f3c721.js.map",
+    "static/css/2.4be38407.chunk.css": "/geo/static/css/2.4be38407.chunk.css",
+    "static/js/2.c25d2dd2.chunk.js": "/geo/static/js/2.c25d2dd2.chunk.js",
+    "static/js/2.c25d2dd2.chunk.js.map": "/geo/static/js/2.c25d2dd2.chunk.js.map",
+    "index.html": "/geo/index.html",
+    "static/css/2.4be38407.chunk.css.map": "/geo/static/css/2.4be38407.chunk.css.map",
+    "static/css/main.827a2cbd.chunk.css.map": "/geo/static/css/main.827a2cbd.chunk.css.map",
+    "static/js/2.c25d2dd2.chunk.js.LICENSE.txt": "/geo/static/js/2.c25d2dd2.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.37f3c721.js",
+    "static/css/2.4be38407.chunk.css",
+    "static/js/2.c25d2dd2.chunk.js",
+    "static/css/main.827a2cbd.chunk.css",
+    "static/js/main.1e2f3564.chunk.js"
+  ]
+}
